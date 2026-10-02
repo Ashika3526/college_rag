@@ -1,0 +1,8 @@
+flask
+streamlit
+chromadb
+pymupdf
+sentence-transformers
+openai
+python-dotenv
+requests
