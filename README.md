@@ -115,8 +115,8 @@ college_rag/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Ashika3526/college_rag.git
+cd college_rag
 ```
 
 Replace the repository URL with your actual GitHub repository URL.
@@ -363,7 +363,7 @@ The objective of this project is to build an AI-based college information assist
 
 AI & Data Science Student
 
-GitHub: [Your GitHub Profile](https://github.com/Ashika3526)
+GitHub: [MY Profile](https://github.com/Ashika3526)
 
 ---
 
