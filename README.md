@@ -363,7 +363,7 @@ The objective of this project is to build an AI-based college information assist
 
 AI & Data Science Student
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/Ashika3526)
 
 ---
 
