@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 backend/chroma_db/
 .venv/
+backend/data/*.pdf
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

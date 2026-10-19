@@ -159,24 +159,15 @@ Replace `your_groq_api_key` with your own API key from the [Groq Console](https:
 
 **Security:** Never commit your `.env` file or expose your API key in source code, screenshots, or public repositories.
 
-### 5. Add PDF Documents
+### 5. Add Your Own PDF Documents
 
-Place your college PDF documents inside:
+The application requires PDF documents to build its knowledge base.
 
-```text
+Place documents that you are authorized to process inside:
+
 backend/data/
-```
 
-For example:
-
-```text
-backend/data/
-├── college.pdf
-├── admission.pdf
-└── placement.pdf
-```
-
-The ingestion script processes all PDF files in this directory.
+The PDF documents are intentionally excluded from this repository. Users must supply their own permitted documents.
 
 ### 6. Build the Vector Database
 
